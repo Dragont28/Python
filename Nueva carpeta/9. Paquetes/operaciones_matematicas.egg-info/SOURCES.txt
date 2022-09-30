@@ -1,0 +1,10 @@
+9.2. Paquetes.py
+setup.py
+operaciones_matematicas.egg-info/PKG-INFO
+operaciones_matematicas.egg-info/SOURCES.txt
+operaciones_matematicas.egg-info/dependency_links.txt
+operaciones_matematicas.egg-info/top_level.txt
+paquetes/__init__.py
+paquetes/calculo_redondeo.py
+paquetes/p2/__init__.py
+paquetes/p2/calculo_factorial.py
